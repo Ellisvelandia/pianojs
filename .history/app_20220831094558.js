@@ -1,0 +1,1 @@
+const pianoKeys = document.querySelectroAll('.key')
